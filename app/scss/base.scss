@@ -1,0 +1,6 @@
+@import "../../bower_components/foundation/scss/normalize.scss";
+@import "../../bower_components/foundation/scss/foundation.scss";
+
+section {
+  @include grid-row();
+}
